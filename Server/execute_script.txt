@@ -1,0 +1,6 @@
+show
+clear
+show
+execute_script execute_script.txt
+filter_by_form_of_education FULL_TIME_EDUCATION
+help help
